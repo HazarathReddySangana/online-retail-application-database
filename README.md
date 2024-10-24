@@ -90,3 +90,13 @@ Payment Processing:
 
 The Payments table allows tracking of payment methods, statuses, and amounts, ensuring that each order is correctly paid before processing.
 
+
+
+![Screenshot 2024-10-24 135444](https://github.com/user-attachments/assets/aa4ffa4d-8431-4236-a018-c90e0ade2680)
+![Screenshot 2024-10-24 135537](https://github.com/user-attachments/assets/27a1c14f-97f7-400b-8a8d-5b20df99f4ff)
+![Screenshot 2024-10-24 135621](https://github.com/user-attachments/assets/11595bb5-613a-4fd9-8d24-195fa465b83a)
+![Screenshot 2024-10-24 135658](https://github.com/user-attachments/assets/884a88a5-2275-4e70-81a9-0996367671d8)
+![Screenshot 2024-10-24 140134](https://github.com/user-attachments/assets/941a7f63-1eb2-4220-b1ac-9271aa30e168)
+![Screenshot 2024-10-24 140326](https://github.com/user-attachments/assets/c6cb7577-c676-4116-8d03-089389cfab10)
+
+
