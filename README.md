@@ -97,6 +97,6 @@ The Payments table allows tracking of payment methods, statuses, and amounts, en
 ![Screenshot 2024-10-24 135621](https://github.com/user-attachments/assets/11595bb5-613a-4fd9-8d24-195fa465b83a)
 ![Screenshot 2024-10-24 135658](https://github.com/user-attachments/assets/884a88a5-2275-4e70-81a9-0996367671d8)
 ![Screenshot 2024-10-24 140134](https://github.com/user-attachments/assets/941a7f63-1eb2-4220-b1ac-9271aa30e168)
-![Screenshot 2024-10-24 140326](https://github.com/user-attachments/assets/c6cb7577-c676-4116-8d03-089389cfab10)
+
 
 
